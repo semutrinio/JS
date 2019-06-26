@@ -1,0 +1,38 @@
+{
+  "name": "Mister Seroja",
+  "short_name": "English Book",
+  "start_url": "https://www.misterseroja.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "English books are blogs that contain English lessons in class that are equipped with subject matter and online questions for elementary schools.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-8NrQK_Qwy3U/XROCPmAxTOI/AAAAAAAAAOI/sdNc89eZYxQu4wzuq-4r8C7xjcbamm59gCEwYBhgL/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TomEKdi8yeE/XROCPrepjwI/AAAAAAAAAPQ/QcA1ZtsuOYwCqOTfrTq5zM24UTJkKiIRwCEwYBhgL/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ZvNlL8p_EWc/XROCPylgtcI/AAAAAAAAAO8/fl-BAyq2OJ82Y375z0y0ULMvWJPd3uRHACEwYBhgL/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-QeWag3gSeHc/XROCOvYW5RI/AAAAAAAAAPQ/1Vt8KX6iQMAVlavWh9BZej2LVZFkK69cQCEwYBhgL/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-XakNe-kyocA/XROD1_co3GI/AAAAAAAAAPY/w2k8pWLQZmIdtl2WQdUEnxC6jZZmGJK6gCLcBGAs/s1600/ms-icon-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-jPKxeAbICjw/XROEKX6hY-I/AAAAAAAAAPg/gvveRqs1H0cZgY0utrNJi4EhpynS4YvXgCLcBGAs/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-p0hFYroI2ks/XROEYds_sNI/AAAAAAAAAPk/ak-9KaIGivwoLkdwTTFrB4miG1ULOpDYQCLcBGAs/s1600/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
